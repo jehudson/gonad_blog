@@ -9,6 +9,11 @@ comments: true
 
 The knife tool in [The Chef Development Kit](https://downloads.chef.io/chefdk "Chef Development Kit Download") is a great time saver. Here are some useful tricks which I have gleaned from various sources and put in one place for reference.
 
+## Find out when chef-client last updated a node
+```bash
+knife status
+```
+
 ## Find all nodes in an environment
 ```bash
 knife search node chef_environment:<environment name>
