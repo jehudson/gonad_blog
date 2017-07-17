@@ -12,6 +12,7 @@ The knife tool in [The Chef Development Kit](https://downloads.chef.io/chefdk "C
 ## Find out when chef-client last updated a node
 ```bash
 knife status
+
 ```
 
 ## Find all nodes in an environment
