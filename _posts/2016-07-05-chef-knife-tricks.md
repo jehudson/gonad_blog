@@ -13,6 +13,22 @@ The knife tool in [The Chef Development Kit](https://downloads.chef.io/chefdk "C
 ```bash
 knife status
 
+4 minutes ago, test2-inf-mongo-01, centos 6.6.
+4 minutes ago, test-hyb-man-01, centos 6.6.
+4 minutes ago, stg-hyb-sol-02, centos 6.6.
+4 minutes ago, test2-node-api-02, centos 6.6.
+4 minutes ago, test-inf-redis-02, centos 6.6.
+4 minutes ago, test2-inf-mongo-03, centos 6.6.
+3 minutes ago, stg-inf-redis-02, centos 6.6.
+3 minutes ago, test2-hyb-solr-01, centos 6.6.
+3 minutes ago, con-inf-db-01, centos 6.6.
+2 minutes ago, uat-inf-mongo-01, centos 6.6.
+1 minute  ago, stg-inf-mongo-02, centos 6.6.
+1 minute  ago, stg-inf-gfs-01, centos 6.6.
+0 minutes ago, uat-inf-db-06, centos 6.6.
+0 minutes ago, solopt-node-mgmt-01, centos 6.7.
+0 minutes ago, stg-inf-db-03, centos 6.6.
+
 ```
 
 ## Find all nodes in an environment
