@@ -11,6 +11,6 @@ In case you want to downgrade the version of chef-client on your machine using t
 On a host where you want to install an older version, use the following command:
 
 ```bash
-sudo tru && curl -L https://www.opscode.com/chef/install.sh | sudo bash -s -- -v 12.9.38
+sudo true && curl -L https://www.opscode.com/chef/install.sh | sudo bash -s -- -v 12.9.38
 service chef-client restart
 ```
