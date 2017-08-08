@@ -2,7 +2,7 @@
 layout: post
 title: "Find out what is using your disk space"
 excerpt: When you are running low on disk you can use the following methods to drill down to the directory where you can start erasing files.
-categories: [administration]
+categories: [Administration]
 comments: true
 ---
 
