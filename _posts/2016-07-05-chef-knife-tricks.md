@@ -2,7 +2,7 @@
 layout: post
 title: "Chef Knife Tricks"
 excerpt: The knife tool in The Chef Development Kit is a great time saver. Here are some useful tricks which I have gleaned from various sources.
-category: [Configuration management]
+category: [Chef]
 comments: true
 ---
 
