@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "How to read large directories with many files"
-excerpt: "Occasionally I come across directories with so many files that ls just hangs."
+excerpt: "Occasionally I come across directories with so many files that the ls command just hangs."
 categories: [Administration]
 comments: true
 
 ---
 
-Occasionally I come across directories with so many files that ls just hangs. This is because the listing process is holding the file names in memory so that it can sort them. You can use the ls -1 -f options to show the files immediately. -1 will list on e file per line and -f will stop sorting.
+Occasionally I come across directories with so many files that the ls command just hangs. This is because the listing process is holding the file names in memory so that it can sort them. You can use the ls -1 -f options to show the files immediately. -1 will list on e file per line and -f will stop sorting.
 
 If you want to remove all the files in a directory you could try the following command:
 
